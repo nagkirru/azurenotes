@@ -1,6 +1,8 @@
 # azurenotes
 azure_notes
 
+https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-develop-mongodb-react
+
 ID--366672
 
 cat: mango.js: No such file or directory
